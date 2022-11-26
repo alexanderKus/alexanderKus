@@ -12,7 +12,7 @@ I'm 3rd yesr student of computer science and full-stack developer. I work with: 
 <br>
 
 ### Technologies and languages
-
+<div>
 <img alt="dotnet" style="width:30px" src="icons/dotnet.svg"/>
 <img alt="angular" style="width:30px" src="icons/angular.svg"/>
 <img alt="c#" style="width:30px" src="icons/csharp.svg"/>
@@ -24,3 +24,4 @@ I'm 3rd yesr student of computer science and full-stack developer. I work with: 
 <img alt="python" style="width:30px" src="icons/python.svg"/>
 <img alt="git" style="width:30px" src="icons/git.svg"/>
 <img alt="bash" style="width:30px" src="icons/bash.svg"/>
+</div>
