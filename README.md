@@ -3,6 +3,7 @@
 ## Hi! I'm Aleksander Kuś 👋
 ---
 </br>
+
 ### About me 💬 
 
 3rd yesr student of computer science
