@@ -25,3 +25,9 @@ I'm 3rd yesr student of computer science and full-stack developer. I work with: 
 <img alt="git" style="width:30px" src="icons/git.svg"/>
 <img alt="bash" style="width:30px" src="icons/bash.svg"/>
 </div>
+
+---
+
+<br>
+
+My second [github profile](https://github.com/aleksanderkus00) mainly used for univeristy.
