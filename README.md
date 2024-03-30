@@ -5,7 +5,10 @@
 
 ### About me 💬 
 <br>
-I'm 4th yesr student of computer science and full-stack developer. I work with: .Net, Angular and PostgreSQL. 
+I'm working as backend developer with technologices as .Net and PostgreSQL. Previously as worked as full-stack developer.
+
+
+Also I have bachelor's degree in computer science.
 
 ---
 
