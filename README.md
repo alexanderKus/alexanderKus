@@ -14,7 +14,7 @@ Also I have bachelor's degree in computer science.
 
 Currently working on:
 
-* Web based application to store book I want to read. [frontend](https://github.com/alexanderKus/btr) and [backend](https://github.com/alexanderKus/btr-backend) I host it on my rasspberry pi 4 at home.
+* Web based application to store book I want to read. frontend: [here](https://github.com/alexanderKus/btr) and backend [here](https://github.com/alexanderKus/btr-backend). I also host it on my rasspberry pi 4 at home.
   
 <br>
 
