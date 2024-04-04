@@ -14,7 +14,7 @@ Also I have bachelor's degree in computer science.
 
 Currently working on:
 
-* Web based application to store book I want to read. frontend: [here](https://github.com/alexanderKus/btr) and backend [here](https://github.com/alexanderKus/btr-backend). I also host it on my rasspberry pi 4 at home.
+* Implementing RISC-V processor on FPGA. You can follow my progress on [blog](alexanderkus.github.io)
   
 <br>
 
