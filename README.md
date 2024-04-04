@@ -14,7 +14,7 @@ Also I have bachelor's degree in computer science.
 
 Currently working on:
 
-* Implementing RISC-V processor on FPGA. You can follow my progress on [blog](alexanderkus.github.io)
+* Implementing RISC-V processor on FPGA. You can follow my progress on [blog](https://alexanderkus.github.io)
   
 <br>
 
