@@ -5,7 +5,7 @@
 
 ### About me 💬 
 <br>
-I'm working as backend developer with technologies as .Net and PostgreSQL. Previously as worked as full-stack developer.
+I'm working as backend developer with technologies as .Net and PostgreSQL/SQL Server. Previously worked as full-stack developer.
 
 
 Also I have bachelor's degree in computer science.
